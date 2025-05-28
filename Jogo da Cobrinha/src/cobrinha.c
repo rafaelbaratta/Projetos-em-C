@@ -30,6 +30,7 @@ void iniciarJogo(){
         cobra[i].x = cobra[i].y = 0;
     }
 
+    tamanhoAtualCobra = 1;
     posicionarComida();
 }
 
