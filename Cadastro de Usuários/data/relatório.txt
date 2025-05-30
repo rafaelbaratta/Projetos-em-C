@@ -1,0 +1,19 @@
+===============================================
+  **********  CADASTRO DE USUARIO  **********  
+===============================================
+
+==>  -------------------------------------  <==
+
+Criacao  : 30/5/2025 - 16:12:48
+Codigo   : 100
+Nome     : Teste
+CPF      : 01234567890
+Telefone : 0123456789
+E-mail   : teste@teste.com
+Salario  : R$ 1111,00
+Estado   : AL
+Cidade   : Testes
+Bairro   : Testes
+Rua      : Testes
+Numero   : 111
+Status   : Ativado
