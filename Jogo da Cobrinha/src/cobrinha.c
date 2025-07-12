@@ -29,7 +29,8 @@ void iniciarJogo(){
     for(int i = 1; i < TAM_MAX_COBRA; i++){
         cobra[i].x = cobra[i].y = 0;
     }
-
+    
+    tamanhoAtualCobra = 1;
     posicionarComida();
 }
 
