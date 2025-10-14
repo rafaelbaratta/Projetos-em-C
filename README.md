@@ -56,7 +56,7 @@ Nome do Projeto/
 ### Pré-Requisitos
 
 - Ter o GCC (GNU Compiler Collection) instalado;
-- Sistema operacional Wildows.
+- Sistema operacional Windows.
 
 ### Passo-a-Passo
 
