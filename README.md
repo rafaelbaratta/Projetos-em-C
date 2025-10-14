@@ -38,7 +38,7 @@ Nome do Projeto/
 ## 🚀 Tecnologias Utilizadas
 
 - **Linguagem:** C
-- **Compilador:** GCC (ou similar)
+- **Compilador:** GCC (GNU Compiler Collection)
 - **IDE/Editor:** Visual Studio Code e CodeBlocks
 
 ## 📖 Conceitos Abordados
