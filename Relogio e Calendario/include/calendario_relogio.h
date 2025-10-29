@@ -4,11 +4,11 @@ extern char *meses[];
 
 void imprimirCabecalho();
 
-// FUN√á√ïES PARA ENTRADA DE VALORES
+// FUN«’ES PARA ENTRADA DE VALORES
 
 int lerInteiro(char *mensagem);
 
-// FUN√á√ïES DO CALEND√ÅRIO
+// FUN«’ES DO CALEND¡RIO
 
 int verBissexto(int ano);
 int diasMeses(int mes, int ano);
@@ -16,7 +16,7 @@ int inicio_mes(int mes, int ano);
 void calendario(int mes, int ano);
 void calendarioMenu(int opcao);
 
-// FUN√á√ïES DO REL√ìGIO
+// FUN«’ES DO REL”GIO
 
 void relogio();
 void cronometro();

@@ -14,6 +14,7 @@ Cada pasta desse repositório contém um projeto específico.
 
 - `Algoritmos` → Criação de algoritmos de ordenação: Bubble sort, Selection Sort e Merge Sort;
 - `Assistente Virtual` → Criação de uma assistente virtual primitiva de linha de comandos;
+- `Batalha Naval` → Implementação do jogo batalha naval em uma disputa entre um usuário e o computador;
 - `Cadastro de Usuários` → Sistema de gerenciamento de usuários (cadastro, edição, procura, exclusão) e de armazenamento em arquivos;
 - `Cálculo Estatístico` → Programa para cálculos de média, moda, mediana, amplitude, variância, desvio padrão e coeficiente de variação;
 - `Jogo da Cobrinha` → Implementação do clássico jogo ‘Snake’, com três níveis de dificuldade;
