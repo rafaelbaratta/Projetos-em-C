@@ -12,7 +12,7 @@ Repositório contendo diversos projetos pessoais e exercícios da faculdade dese
 
 Cada pasta desse repositório contém um projeto específico.
 
-- `Algoritmos` → Criação de algoritmos de ordenação: Bubble sort, Selection Sort e Merge Sort;
+- `Algoritmos` → Criação de algoritmos de ordenação (Bubble sort, Selection Sort, Insertion Sort e Merge Sort) e algoritmos de busca (Busca Sequencial e Busca Binária);
 - `Assistente Virtual` → Criação de uma assistente virtual primitiva de linha de comandos;
 - `Batalha Naval` → Implementação do jogo batalha naval em uma disputa entre um usuário e o computador;
 - `Cadastro de Usuários` → Sistema de gerenciamento de usuários (cadastro, edição, procura, exclusão) e de armazenamento em arquivos;
